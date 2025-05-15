@@ -1,6 +1,6 @@
 # WID 3011 : Deep Learning Assignment
 
-## 👥Collaborators
+## 👥 Collaborators
 - Michelle Hu Yin Tin
 - Wong Xin Jie
 - Hang We Hong
