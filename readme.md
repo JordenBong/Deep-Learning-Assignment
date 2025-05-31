@@ -9,4 +9,4 @@
 - Bong Chee Hian
 
 ## 📊 Dataset
-This project is working on the Kaggle Competition: Facebook Recruiting IV: Human or Robot?. Please refer [Kaggle](https://www.kaggle.com/competitions/facebook-recruiting-iv-human-or-bot) to collect the required dataset.
+This project is working on the Kaggle Competition: [Facebook Recruiting IV: Human or Robot?](https://www.kaggle.com/competitions/facebook-recruiting-iv-human-or-bot). Please refer Kaggle to collect the required dataset.
